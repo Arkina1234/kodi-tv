@@ -111,11 +111,11 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctvamerica_1/index.m3u8?b=200-2100
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s47481_dark_360w_270h.png",NTD
 https://live.ntdtv.com/live900/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28452_dark_360w_270h.png",Arirang
+#EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28452_dark_360w_270h.png",Arirang
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50270_dark_360w_270h.png",MBC America
+#EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s50270_dark_360w_270h.png",MBC America
 https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/ABR720v1/streams/6216a106-d16f-916f-c663-41d3cbd7ac23_480p1000kbps.m3u8
-#EXTINF:-1 group-title="" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48836_dark_360w_270h.png",NDTV 24x7
+#EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s48836_dark_360w_270h.png",NDTV 24x7
 https://web-ndtv24x7-us.akamaized.net/hls/live/2109282/ndtv24x7us/master.m3u8
 #EXTINF:-1 group-title="TV" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16220_dark_360w_270h.png",Free Speech TV
 https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
