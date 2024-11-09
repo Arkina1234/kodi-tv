@@ -185,6 +185,8 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4249&live=1&avo
 https://linear-600.frequency.stream/dist/obsessionmedia/600/hls/master/playlist.m3u8?&ads.app_bundle=REPLACE&ads.app_name=REPLACE&ads.app_store_url%20=REPLACE&ads.did=REPLACE&ads.us_privacy=REPLACE
 #EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s149441_dark_360w_270h.png",MeatEater
 https://amg01201-amg01201c35-cineverse-us-3139.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-meateater-cineverseus/playlist.m3u8?app_bundle=__JTV__https://www.cineverse.com__&app_name=cineverse&app_store_url=&genre=&ic=&us_privacy=1YNN&gdpr=0&gdpr_consent=0&did=vir_web0e0c930c90cf909c2f46478792d715fa&dnt=1&coppa=0&ifa_type=__JTV__IFA__TYPE__&eids=
+#EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138400_dark_360w_270h.png",Bravo Vault
+https://xumo-xumoent-vc-114-x0p7i.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138455_dark_360w_270h.png",Real Housewives Vault
 https://xumo-xumoent-vc-123-8gq0q.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s161256_dark_360w_270h.png",Relative Justice
