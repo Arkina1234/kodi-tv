@@ -168,7 +168,7 @@ https://d1igp1kv49nlwd.cloudfront.net/amgthisoldhouse/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s122387_dark_360w_270h.png",This Old House Makers Channel
 https://d2j3i48a0fc7gv.cloudfront.net/amgthisoldhousemakers/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s120179_dark_360w_270h.png",The Design Network
-https://thedesignnetwork-tdn-2-us.xumo.wurl.tv/manifest/playlist.m3u8
+https://amg00441-amg00441c1-xumo-us-5144.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s132607_dark_360w_270h.png",CraftsyTV
 https://linear-492.frequency.stream/dist/tnmarketing/492/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s120351_dark_360w_270h.png",Tastemade Travel
