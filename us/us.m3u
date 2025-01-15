@@ -139,5 +139,3 @@ http://listen.warpradio.com:8020/CRN5
 http://listen.warpradio.com:8020/CRN6
 #EXTINF:-1 group-title="Radio" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s73583_dark_360w_270h.png" radio="true",CRN7
 http://listen.warpradio.com:8020/CRN7
-#EXTINF:-1 group-title="" tvg-id="15218" tvg-name="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s_dark_360w_270h.png",
-
