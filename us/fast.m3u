@@ -265,4 +265,3 @@ https://lotus.stingray.com/manifest/naturescape-a003-losangeles/web/master.m3u8?
 https://ott-linear-channels.stingray.com/holidayscapes/master.m3u8
 #EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s146460_dark_360w_270h.png",ZenLIFE by Stingray
 https://lotus.stingray.com/manifest/zenlife-zen001-montreal/web/master.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.gdpr=%7BGDPR%7D&ads.gdpr_consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D
-#EXTINF:-1 group-title="Streaming" tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s_dark_360w_270h.png",
