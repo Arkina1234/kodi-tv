@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://i.mjh.nz/Roku/all.xml;https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/Roku/all.xml"
+#EXTM3U url-tvg="https://i.mjh.nz/Roku/all.xml;https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/Roku/all.xml"
 #EXTINF:-1 tvg-chno="120" group-title="" tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-logo="",LiveNOW from FOX
 https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
 #EXTINF:-1 tvg-chno="161" group-title="" tvg-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-logo="",AccuWeather NOW
