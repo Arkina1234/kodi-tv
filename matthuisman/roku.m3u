@@ -2,39 +2,42 @@
 #EXTINF:-1 tvg-chno="120" group-title="" tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-logo="http://example.com/example.png",LiveNOW from FOX
 https://aka-live-001-0002.delivery.roku.com/b2073d8d-954c-433e-986c-c510a165b05c/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="161" group-title="" tvg-id="f95c40a17cfe5b9fb1970192e378fb0c" tvg-logo="http://example.com/example.png",AccuWeather NOW
-https://jmp2.uk/rok-f95c40a17cfe5b9fb1970192e378fb0c.m3u8
+https://aka-live1367.delivery.roku.com/10ddd1d8-271e-48bc-9290-80315b6400dc/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="297" group-title="" tvg-id="52c137ae3cdc50768ad7ea3cdaf0f2f4" tvg-logo="http://example.com/example.png",LOL Network
-https://jmp2.uk/rok-52c137ae3cdc50768ad7ea3cdaf0f2f4.m3u8
+https://aka-live872.delivery.roku.com/39158904-c892-4038-957f-c95450e8425f/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="298" group-title="" tvg-id="d6f71998860459eca1bed73db5988330" tvg-logo="http://example.com/example.png",FilmRise Free Movies
-https://jmp2.uk/rok-d6f71998860459eca1bed73db5988330.m3u8
+https://aka-live1770.delivery.roku.com/1c6ad6fa-bf05-4887-9469-74eb48c81627/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="335" group-title="" tvg-id="dead0e7a46da533c94c61c8710ef3418" tvg-logo="http://example.com/example.png",FilmRise British TV
-https://jmp2.uk/rok-dead0e7a46da533c94c61c8710ef3418.m3u8
+https://aka-live1655.delivery.roku.com/d83b2941-9473-4d27-adb0-aec056e72ef8/t2-origin/out/v1/live.m3u8
+#EXTINF:-1 tvg-chno="401" group-title="" tvg-id="c0de867f29485305b9197b14cd08240f" tvg-logo="http://example.com/example.png",Like Nastya
+https://aka-live-001-0004.delivery.roku.com/73d53dc7-a28b-4481-91c3-b74a62e0126a/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="403" group-title="" tvg-id="d1bfe824cfee5369a493d7a8bbd96ec1" tvg-logo="http://example.com/example.png",Ryan and Friends
-https://jmp2.uk/rok-d1bfe824cfee5369a493d7a8bbd96ec1.m3u8
+https://aka-live409.delivery.roku.com/025ce22a-8378-4ac1-a08e-7af235ba09e8/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="405" group-title="" tvg-id="d8b7e94b7edc53918e6afa251822df14" tvg-logo="http://example.com/example.png",Pocket.watch Game-On
-https://jmp2.uk/rok-d8b7e94b7edc53918e6afa251822df14.m3u8
+https://aka-live1068.delivery.roku.com/a330db27-a364-431c-be77-1817648951cd/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="419" group-title="" tvg-id="40d73ba5be775428a377908b02033b4c" tvg-logo="http://example.com/example.png",BABY SHARK TV
-https://jmp2.uk/rok-40d73ba5be775428a377908b02033b4c.m3u8
+https://aka-live-000-0098.delivery.roku.com/ba7ab336-aa58-4e2e-8dba-1054740ec846/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="428" group-title="" tvg-id="b5cde121f98257329346020e2a60295a" tvg-logo="http://example.com/example.png",Moonbug Kids
-https://jmp2.uk/rok-b5cde121f98257329346020e2a60295a.m3u8
+https://aka-live1275.delivery.roku.com/48958701-bf5d-40f4-a630-573ac35b7a5f/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="439" group-title="" tvg-id="9aff620ece2457a3a7572886ecae0495" tvg-logo="http://example.com/example.png",Super Simple Songs
-https://jmp2.uk/rok-9aff620ece2457a3a7572886ecae0495.m3u8
+https://aka-live1288.delivery.roku.com/b12a495a-72a8-41e0-8566-e41f38ff553c/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="436" group-title="" tvg-id="9dd23031622757d1944e4782b2a192ef" tvg-logo="http://example.com/example.png",Ninja Kidz TV
-https://jmp2.uk/rok-9dd23031622757d1944e4782b2a192ef.m3u8
+https://aka-live1597.delivery.roku.com/e1fd262e-a2e3-445d-ac01-53f25383a98c/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="449" group-title="" tvg-id="7b3b6c3d670c5008be3b100fd622fa0d" tvg-logo="http://example.com/example.png",QVC's The Big Dish
 https://jmp2.uk/rok-7b3b6c3d670c5008be3b100fd622fa0d.m3u8
 #EXTINF:-1 tvg-chno="507" group-title="" tvg-id="ebb810a8868251f18ac64056834c749a" tvg-logo="http://example.com/example.png",FilmRise True Crime
-https://jmp2.uk/rok-ebb810a8868251f18ac64056834c749a.m3u8
+https://aka-live1780.delivery.roku.com/22b66942-f85a-4a33-9440-61fea2cac667/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="702" group-title="" tvg-id="22d9d1cb36e855a2b40ba752313a50d9" tvg-logo="http://example.com/example.png",FilmRise Food
 https://jmp2.uk/rok-22d9d1cb36e855a2b40ba752313a50d9.m3u8
 #EXTINF:-1 tvg-chno="810" group-title="" tvg-id="aeef4f63419a5d5fabcf0055585f9ccc" tvg-logo="http://example.com/example.png",FailArmy
-https://jmp2.uk/rok-aeef4f63419a5d5fabcf0055585f9ccc.m3u8
+https://aka-live1648.delivery.roku.com/e256f080-f16c-4159-a990-96c21185cc20/t2-origin/out/v1/live.m3u8#EXTINF:-1 tvg-chno="811" group-title="" tvg-id="69791edb54d953268aa8933e2cb29a32" tvg-logo="http://example.com/example.png",The Pet Collective
+https://aka-live1508.delivery.roku.com/2ead0673-310a-448e-b7e2-b13d378bcac4/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="815" group-title="" tvg-id="86c08261fc015a58866210bea63eb8f4" tvg-logo="http://example.com/example.png",Always Funny Videos
-https://jmp2.uk/rok-86c08261fc015a58866210bea63eb8f4.m3u8
+https://aka-live1555.delivery.roku.com/b1beefe1-d4e3-43c6-b15c-7c24f0044827/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="817" group-title="" tvg-id="e63d49e8acd7557596d091b3fa262999" tvg-logo="http://example.com/example.png",FGTeeV
-https://jmp2.uk/rok-e63d49e8acd7557596d091b3fa262999.m3u8
+https://aka-live355.delivery.roku.com/8743fd09-7b9e-428e-b328-147bb04db8fb/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="833" group-title="" tvg-id="067e6b6fa36352ad8984a8d97c9a39d4" tvg-logo="http://example.com/example.png",FilmRise Creators
-https://jmp2.uk/rok-067e6b6fa36352ad8984a8d97c9a39d4.m3u8
+https://aka-live1774.delivery.roku.com/7373a18f-b3e9-489b-af6c-abf6f226e159/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-chno="1126" group-title="" tvg-id="e50a8f06d3245c95a4e250dc5c33c2be" tvg-logo="http://example.com/example.png",Vevo Pop
 https://jmp2.uk/rok-e50a8f06d3245c95a4e250dc5c33c2be.m3u8
 #EXTINF:-1 tvg-chno="1134" group-title="" tvg-id="6be3083b8ec2508495684e5087f8f86a" tvg-logo="http://example.com/example.png",Vevo R&B
